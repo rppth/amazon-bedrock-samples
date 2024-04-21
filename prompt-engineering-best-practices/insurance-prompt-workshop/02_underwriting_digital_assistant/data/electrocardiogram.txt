@@ -1,0 +1,52 @@
+Electrocardiogram (EKG) Report 
+Patient Information:  
+• Patient Name: Raj Pathak  
+• Date of Birth: August 12,  1967  
+• Gender: Male  
+• Medical Record Number:  202300123  
+ 
+Date of EKG:  
+ 
+• Date of EKG: November 8, 2023  
+ 
+Clinical Indication:  
+ 
+Mr. Raj Pathak presented with complaints of chest pain and was admitted to St. John's Medical 
+Center on November 8, 2023. An EKG was performed to assess cardiac function and identify 
+any potential abnormalities.  
+ 
+EKG Findings:  
+ 
+• Heart Rate: 72 bpm  
+• Rhythm: Sinus  rhythm  
+• P-R Interval: 0.20 seconds  
+• QRS Duration: 0.08 seconds  
+• QT Interval: 0.42 seconds  
+• ST-Segment: No significant ST -segment deviations  observed  
+• T-Wave:  Normal  
+• Axis: Normal  axis 
+ 
+Interpretation:  
+ 
+The EKG performed on Mr. Raj Pathak indicates normal sinus rhythm with no significant ST - 
+segment deviations or other abnormalities. The P -R interval, QRS duration, and QT interval are 
+within the normal range.  
+ 
+Clinical Impression:  
+ 
+The EKG findings do not suggest any acute cardiac abnormalities or arrhythmias. This EKG is 
+consistent with a normal cardiac rhythm.  
+ 
+Recommendations:  
+ 
+1. Given the clinical context of chest pain, it is recommended to continue monitoring the 
+patient's cardiac status, and further evaluations may be necessary to determine the  cause 
+of the chest  pain.  
+2. Consultation with a cardiologist is advised for a comprehensive assessment and  potential 
+additional cardiac tests such as echocardiography or stress  testing.  
+ 
+EKG Performed By:  
+ 
+• Cardiologist: Dr. Emily Clark  
+• Date of EKG: November 8, 2023 
+• Medical  Center: St. John's Medical  Center  
