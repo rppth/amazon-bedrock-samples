@@ -55,8 +55,7 @@ between the smoker and non-smoker populations in this actuarial data set. Carefu
 logic needed in your SQL to achieve this.
 """
 
-challenge_1_3_sample_solution = 
-""" You will be acting as an actuarial consultant analyzing an actuarial data set for an insurance
+challenge_1_3_sample_solution = """ You will be acting as an actuarial consultant analyzing an actuarial data set for an insurance
 company. The data set will be provided in the following format:
 
 <actuarial_data>
@@ -81,3 +80,4 @@ risk segments that warrant further investigation? Provide clear and actionable g
 
 Remember, as an actuarial consultant, it's your job to apply your expertise to ensure this insurance
 product is sustainably priced and managed. Let me know if you have any other questions!"""
+
