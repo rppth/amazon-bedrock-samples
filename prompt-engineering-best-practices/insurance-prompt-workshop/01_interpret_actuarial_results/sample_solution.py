@@ -2,7 +2,7 @@ challenge_1_1_sample_solution = """
 Here is an actuarial data set in CSV format:
 
 <data>
-{$ACTUARIAL_DATA}
+{ACTUARIAL_DATA}
 </data>
 
 Please carefully analyze this data, looking closely at each individual column as well as the
@@ -34,11 +34,11 @@ You are an AI assistant skilled in data analysis and SQL. I will provide you wit
 set in the following format:
 
 <actuarial_data>
-{$ACTUARIAL_DATA}
+{ACTUARIAL_DATA}
 </actuarial_data>
 
-Your task is to write a SQL query that calculates the average A/E ratio (a_over_e column) separately
-for the smoker and non-smoker groups. Your query should return the higher of the two average values.
+Your task is to write a general SQL query that will work on any SQL engine that calculates the average A/E ratio (a_over_e column) separately
+for the smoker and non-smoker groups. Your query should return the higher of the two average values, and the answer should be easy to interpret.
 
 Before writing your final query, think through the problem and plan out your approach in a
 <scratchpad> section. Consider what tables you need to access, what columns you need to select, how
@@ -52,14 +52,14 @@ what the final result represents.
 
 Remember, the goal is to returna single value representing the higher of the average A/E ratios
 between the smoker and non-smoker populations in this actuarial data set. Carefully consider the
-logic needed in your SQL to achieve this.
+logic needed in your SQL to achieve this. 
 """
 
 challenge_1_3_sample_solution = """ You will be acting as an actuarial consultant analyzing an actuarial data set for an insurance
 company. The data set will be provided in the following format:
 
 <actuarial_data>
-{$ACTUARIAL_DATA}
+{ACTUARIAL_DATA}
 </actuarial_data>
 
 The data has the following columns:
