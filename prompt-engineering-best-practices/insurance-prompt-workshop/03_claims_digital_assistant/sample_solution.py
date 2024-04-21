@@ -3,7 +3,7 @@ Prompt:
 Here is the transcript of a customer service call:
 
 <call_log>
-{$CALL_LOG}
+{CALL_LOG}
 </call_log>
 
 Please carefully analyze the transcript above, focusing on how the customer's sentiment evolves from
@@ -19,26 +19,26 @@ if it improved or worsened
 After you've thought it through, please provide your final analysis in the following JSON format:
 
 <json>
-{
-"quarter1": {
-"sentiment": "",
-"call_summary": ""
-},
-"quarter2": {
-"sentiment": "",
-"call_summary": ""
-},
-"quarter3": {
-"sentiment": "",
-"call_summary": ""
-},
-"quarter4": {
-"sentiment": "",
-"call_summary": ""
-},
-"sentiment_change": "",
-"action_items": []
-}
+{{
+  "quarter1": {{
+    "sentiment": "",
+    "call_summary": ""
+  }},
+  "quarter2": {{
+    "sentiment": "",
+    "call_summary": ""
+  }},
+  "quarter3": {{
+    "sentiment": "",
+    "call_summary": ""
+  }},
+  "quarter4": {{
+    "sentiment": "",
+    "call_summary": ""
+  }},
+  "sentiment_change": "",
+  "action_items": []
+}}
 </json>
 
 The JSON should contain these elements:
@@ -56,7 +56,7 @@ challenge_3_2_sample_solution = """
 Please carefully review the following call center transcript between a customer and a claims agent:
 
 <call_log>
-{$CALL_LOG}
+{CALL_LOG}
 </call_log>
 
 After reviewing the call log, reflect on what you think the Agent handled well during the
@@ -74,7 +74,7 @@ challenge_3_3_sample_solution = """
 Here is the transcript of a call between a customer and a claims support agent:
 
 <call_log>
-{$CALL_LOG}
+{CALL_LOG}
 </call_log>
 
 Please read through the call log carefully. After you have finished reading, write a concise summary
@@ -90,3 +90,4 @@ specific and actionable.
 
 Provide your summary and next steps analysis for this call log.
 """
+
